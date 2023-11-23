@@ -45,7 +45,7 @@
   footer .top {
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
   }
 
@@ -61,6 +61,10 @@
 
   footer .top > div:not(:first-child) {
     margin-top: 0;
+  }
+  .holiday a {
+    font-weight: 700;
+    font-size: 1.5em;
   }
 
   /*----------- MAIN --------------*/

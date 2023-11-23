@@ -43,6 +43,12 @@
   #businesses.grid .card > div div img {
     max-width: 7rem;
   }
+  .top {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  }
 
   footer > .top div {
     height: 38vh;
