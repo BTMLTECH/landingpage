@@ -191,9 +191,7 @@ footer > .top {
 footer > .top p {
   line-height: 1.5;
 }
-footer > .top div {
-  height: 50vh;
-}
+
 /* footer > .top div:not(:first-child) {
   font-size: 1.2rem;
   margin-top: 1.3rem;

@@ -43,4 +43,8 @@
   #businesses.grid .card > div div img {
     max-width: 7rem;
   }
+
+  footer > .top div {
+    height: 50vh;
+  }
 } /* end of media query */
