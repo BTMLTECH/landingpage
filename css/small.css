@@ -179,11 +179,14 @@ section hr {
 }
 
 /*----------- FOOTER --------------*/
+footer {
+  background-color: #24252a;
+}
 footer > .top {
   display: flex;
   flex-direction: column;
   color: white;
-  background-color: #24252a;
+
   padding: 1.5rem;
   padding-bottom: 0%;
 }
@@ -211,6 +214,16 @@ footer > .top div:last-child h4 {
   padding: 0;
   color: white;
   margin-right: auto;
+  padding: 1rem;
+}
+.holiday {
+  display: flex;
+  flex-direction: column;
+  background-color: #24252a;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 0;
 }
 .svg > div {
   margin-left: auto;
