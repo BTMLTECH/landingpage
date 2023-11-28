@@ -48,6 +48,9 @@
     justify-content: space-evenly;
     align-items: center;
   }
+  .holiday {
+    margin-top: 2rem;
+  }
 
   footer > .top div {
     height: 25vh;
