@@ -44,13 +44,12 @@
     max-width: 7rem;
   }
   .top {
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
   }
 
   footer > .top div {
-    height: 38vh;
+    height: 25vh;
   }
 } /* end of media query */

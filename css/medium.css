@@ -43,24 +43,19 @@
 
   /*----------- FOOTER --------------*/
   footer .top {
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
   }
 
   footer .top > div {
-    min-width: 18rem;
-    max-width: 18rem;
-    margin-right: 2rem;
+    min-width: 24rem;
+    max-width: 24rem;
+    /* margin-right: 2rem; */
   }
 
   footer .top > div:first-child {
-    margin-bottom: 2rem;
-  }
-
-  footer .top > div:not(:first-child) {
-    margin-top: 0;
+    margin-bottom: 1rem;
   }
   .holiday a {
     font-weight: 700;
