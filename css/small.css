@@ -195,6 +195,10 @@ footer > .top {
 footer > .top p {
   line-height: 1.5;
 }
+.country {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
 
 .svg {
   background-color: #24252a;
@@ -216,8 +220,21 @@ footer > .top p {
 }
 .holiday a {
   font-weight: 700;
-  font-size: 1em;
   color: #ffa30e;
+}
+
+.correction {
+  padding-left: 1rem;
+}
+
+.country_display {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.website {
+  font-size: 1.5rem;
 }
 .svg > div {
   margin-left: auto;

@@ -53,6 +53,6 @@
   }
 
   footer > .top div {
-    height: 25vh;
+    /* height: 25vh; */
   }
 } /* end of media query */
