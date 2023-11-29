@@ -188,8 +188,6 @@ footer > .top {
   flex-direction: column;
   flex-wrap: nowrap;
   color: white;
-  padding: 1rem;
-  padding-bottom: 0%;
 }
 
 footer > .top p {
@@ -208,14 +206,9 @@ footer > .top p {
   padding: 0;
   color: white;
   margin-right: auto;
-  padding: 1rem;
 }
 .holiday {
-  display: flex;
-  flex-direction: column;
   background-color: #24252a;
-  justify-content: space-evenly;
-  align-items: center;
   color: white;
 }
 .holiday a {
