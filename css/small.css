@@ -205,7 +205,6 @@ footer > .top p {
   list-style: none;
   padding: 0;
   color: white;
-  margin-right: auto;
 }
 .holiday {
   background-color: #24252a;
@@ -249,6 +248,9 @@ footer > .top p {
   cursor: pointer;
   vertical-align: middle;
   text-align: center;
+}
+.svg p {
+  align-items: center;
 }
 
 footer > .top div:last-child li a {
