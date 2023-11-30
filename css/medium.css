@@ -42,10 +42,10 @@
   }
 
   /*----------- FOOTER --------------*/
-  footer .top {
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
+  footer .top,
+  .svg {
+    padding-left: 20vw;
+    padding-right: 20vw;
   }
 
   footer .top > div {

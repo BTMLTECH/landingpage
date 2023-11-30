@@ -43,10 +43,10 @@
   #businesses.grid .card > div div img {
     max-width: 7rem;
   }
-  .top {
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
+  footer .top,
+  .svg {
+    padding-left: 28vw;
+    padding-right: 28vw;
   }
   .holiday {
     margin-top: 2rem;
